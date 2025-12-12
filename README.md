@@ -56,6 +56,3 @@ Running the Demo
 npm install
 gemini api key 
 npm run dev
-
-npm install
-npm start
