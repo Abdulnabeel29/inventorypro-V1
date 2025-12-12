@@ -1,0 +1,5 @@
+{
+  "name": "InventoryPro",
+  "description": "A comprehensive Inventory Management System dashboard featuring product tracking, order management, supplier relations, and AI-powered inventory analysis using Google Gemini.",
+  "requestFramePermissions": []
+}
